@@ -1,0 +1,31 @@
+{
+  "name": "react-zen-router",
+  "version": "1.0.0",
+  "description": "The simplest router possible, for React",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomilho/react-zen-router.git"
+  },
+  "keywords": [
+    "router",
+    "zen",
+    "routes",
+    "route",
+    "simple",
+    "simplest",
+    "react",
+    "reactive"
+  ],
+  "author": "Juan Lulkin <maiz@lulk.in> (https://medium.com/@joaomilho/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomilho/react-zen-router/issues"
+  },
+  "homepage": "https://github.com/joaomilho/react-zen-router#readme",
+  "peerDependencies": {
+    "react": "^15.3.1",
+    "zen-router": "^1.0.0"
+  }
+}
